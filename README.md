@@ -2,6 +2,10 @@
 
 Dead simple AppError class without any babeling or minification
 
+## The reason why this is exists at all
+
+It's just helps you to avoid `'../../'`. You can use it like common Error object for your app. Or not :)
+
 ## Usage example
 
 ```js
