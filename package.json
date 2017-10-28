@@ -1,10 +1,10 @@
 {
   "name": "apperr",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Just a dead simple AppError class",
   "main": "index.js",
   "repository": "https://github.com/dimapaloskin/apperr",
   "author": "Dima Pavlovsky",
   "license": "MIT",
-  "private": false,
+  "private": false
 }
